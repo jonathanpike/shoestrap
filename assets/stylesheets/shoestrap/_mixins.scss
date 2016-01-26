@@ -9,3 +9,10 @@
 @import "mixins/text-emphasis";
 @import "mixins/text-overflow";
 @import "mixins/reset-text";
+@import "mixins/background-variant";
+
+// Utilities
+@import "mixins/clearfix";
+@import "mixins/vendor-prefixes";
+@import "mixins/tab-focus";
+@import "mixins/image";
